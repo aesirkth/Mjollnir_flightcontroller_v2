@@ -5,4 +5,5 @@
   (lib (name "buck_converter")(type "KiCad")(uri "${KIPRJMOD}/lib/buck_converter.kicad_sym")(options "")(descr ""))
   (lib (name "btn7080")(type "KiCad")(uri "${KIPRJMOD}/lib/btn7080.kicad_sym")(options "")(descr ""))
   (lib (name "pico")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-PICO-MINI-02.kicad_sym")(options "")(descr ""))
+  (lib (name "cx3225")(type "Legacy")(uri "${KIPRJMOD}/lib/CX3225SB40000D0FFFCC.lib")(options "")(descr ""))
 )
